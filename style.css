@@ -265,6 +265,11 @@ con1 {
 
 }
 
+@media (min-width: 300px) and (max-width: 700px) {
+    .hero-content-wrap{
+        padding-top: 100px;
+    }
+}
 
 @media (min-width: 700px) and (max-width: 890px)
 {
